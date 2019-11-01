@@ -1,0 +1,14 @@
+<application>
+  <component name="GoSdkList">
+    <sdk-path>
+      <set>
+        <option value="" />
+        <option value="/snap/go/3080" />
+        <option value="/snap/go/3095" />
+        <option value="/snap/go/3129" />
+        <option value="/snap/go/3739" />
+        <option value="/snap/go/4289" />
+      </set>
+    </sdk-path>
+  </component>
+</application>
