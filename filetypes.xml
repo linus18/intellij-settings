@@ -8,6 +8,7 @@
       <mapping pattern="cmds" type="PLAIN_TEXT" />
       <mapping pattern="r" type="PLAIN_TEXT" />
       <mapping ext="awk" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
